@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: crowe
+Build-Jdk: 11.0.4
+Implementation-Title: Semana_02
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.idat
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Semana_02/
+Created-By: Maven Integration for Eclipse
+
